@@ -1,0 +1,1708 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter vnto them of the Romish Church, by Peter du Moulin, minister in the reformed Church at Paris. Together with a true iubile or generall pardon of indulgence by the same author</title>
+            <author>Du Moulin, Pierre, 1568-1658.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1621</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 62 KB of XML-encoded text transcribed from 34 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A20953</idno>
+            <idno type="STC">STC 7331</idno>
+            <idno type="STC">ESTC S118715</idno>
+            <idno type="EEBO-CITATION">99853922</idno>
+            <idno type="PROQUEST">99853922</idno>
+            <idno type="VID">19325</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A20953)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 19325)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1064:06)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter vnto them of the Romish Church, by Peter du Moulin, minister in the reformed Church at Paris. Together with a true iubile or generall pardon of indulgence by the same author</title>
+                  <author>Du Moulin, Pierre, 1568-1658.</author>
+                  <author>Goring, Richard.</author>
+               </titleStmt>
+               <extent>[6], 55, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by H. L[ownes] for Mathew Lownes, dwelling in Paules Church-yard,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1621.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Printer's name from STC.</note>
+                  <note>Translator's dedication signed: Ry. Goring.</note>
+                  <note>"The great iubile and pardon of full remission for all true Christians" has caption on D7v.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Catholic Church --  Controversial literature --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-11</date>
+            <label>Aptara</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-09</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2010-09</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:19325:1" rendition="simple:additions"/>
+            <p>A
+LETTER
+VNTO THEM
+<hi>of</hi>
+The Romiſh Church,</p>
+            <p>
+               <hi>By</hi> PETER <hi>du</hi> MOVLIN, Miniſter
+in the reformed Church at
+<hi>Paris.</hi>
+            </p>
+            <p>Together with a true Iubile or generall
+<hi>Pardon of Indulgence by the</hi>
+ſame Author.</p>
+            <p>LONDON,
+Printed by <hi>H. L.</hi> for <hi>Mathew Lownes,</hi>
+dwelling in Paules Church-yard.
+1621.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:19325:2"/>
+            <pb facs="tcp:19325:2"/>
+            <head>TO
+The right worſhipfull,
+Maſter VVILLIAM
+HAKEVVILL, Eſquier, R. G. Wi<g ref="char:EOLhyphen"/>ſheth
+(as in dutie he is bound) all in<g ref="char:EOLhyphen"/>creaſe
+of grace and true
+happineſs.</head>
+            <opener>
+               <salute>Sir:</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>His little but excellent tract
+of <hi>Monſieur du Moulins</hi>
+being giuen mee to tranſlate
+by your worthie brother
+(who formerlie, as your Worſhip may re<g ref="char:EOLhyphen"/>member,
+did once ſet me aworke in the like
+kinde vvith no ill ſucceſſe) and being de<g ref="char:EOLhyphen"/>ſirous
+<pb facs="tcp:19325:3"/>
+to haue it patronized by ſome
+good friend as the custome is, I ſoone
+bethought mee how it might verie ac<g ref="char:EOLhyphen"/>ceptablie
+paſſe vnder your name, if
+ſo it would pleaſe you to grace my poore
+endeuour, which in all humblenes I glad<g ref="char:EOLhyphen"/>lie
+offer vp vnto you: firſt, as a thank<g ref="char:EOLhyphen"/>full
+remembrance of your manie charita<g ref="char:EOLhyphen"/>ble
+fauours towardes mee; and then as
+an earneſt of my willingnes to bee doing
+as I am able.</p>
+            <p>The diſcourſe of it ſelfe in the origi<g ref="char:EOLhyphen"/>nall
+is of worth enough to giue all good
+men content, which loue Gods true Re<g ref="char:EOLhyphen"/>ligion
+together with the propogation and
+increaſe thereof, and (as I hope) hath
+receiued no greate ſoile or blemiſh by
+paſsing through my handes.</p>
+            <p>It ſeemes it was intended by that fa<g ref="char:EOLhyphen"/>mous
+man the Authour, eſpeciallie for
+his owne countriemen of the Romiſh
+Church: but alas who are ſo deafe as
+they that will not heare, or blind like
+them that will not ſee? Yet as hee ſaith
+in the end of his diſcourſe, that <hi>Ani<g ref="char:EOLhyphen"/>mam
+ſuam liberauit</hi> in caſe it worke
+<pb facs="tcp:19325:3"/>
+not amongſt them his wiſhed effect; So
+likewiſe if it paſſe into Engliſh vnder your
+<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>au<gap reason="illegible: faint" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ur, <hi>vous aurez auſſi Monſieur ad<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ncè une
+bonne oeuure.</hi> So trusting to
+our Worſhips gentle acceptance, I ceaſe
+further to trouble you in your moſt
+worthie employments for the
+common good; and re<g ref="char:EOLhyphen"/>maine,</p>
+            <closer>
+               <signed>Your worſhips moſt hum<g ref="char:EOLhyphen"/>ble
+and euer much bounden,<lb/>
+                  <hi>Ry. Goring.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb n="1" facs="tcp:19325:4"/>
+            <head>A Letter to them of the
+Romiſh Church, by Peter
+du Moulin, Miniſter of GOD's
+Word in the Reformed
+Church of Paris.</head>
+            <head type="sub">Tranſlated into Engliſh out of the French
+Originall.</head>
+            <opener>
+               <salute>My Masters:</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>HE things that I have to
+repreſent to you, would
+perhappes bee more ac<g ref="char:EOLhyphen"/>ceptable
+from any other
+hand than from mine: and yet I may
+bee bould to ſay, that never did any
+man ſpeak to you more void of ha<g ref="char:EOLhyphen"/>tred,
+or more deſirous of your good
+<pb n="2" facs="tcp:19325:5"/>
+and ſalvation. The Word of God,
+from whence wee draw our Religi<g ref="char:EOLhyphen"/>on,
+commands us to love thoſe that
+hate us, and to beleeve that thoſe
+which doo perſecute us doo thinke
+they doo God good ſervice. Every
+ſpirit, which ſeeketh after the truth,
+ought thus to be diſpoſed. Without
+this, it is impoſſible to gather anie
+fruit by our communication: for,
+never doth any wound cloze up a<g ref="char:EOLhyphen"/>gain,
+during the inflammation. And
+even as in a houſe which is on fire,
+thoſe which ſpeake are not under<g ref="char:EOLhyphen"/>ſtood:
+ſo ſhall we never underſtand
+one another, whil'ſt our ſpirits doo
+burne with hatred and ſpleen. The
+ſtudy of the ſacred Word of GOD
+requireth a quiet ſpirit, which wiſe<g ref="char:EOLhyphen"/>ly
+waigheth things without excepti<g ref="char:EOLhyphen"/>on
+againſt any mans perſon: for,
+what reaſon is it to hate any bodie
+becauſe hee goeth aſtray, or becauſe
+wee think wee ſee more cleere than
+hee?</p>
+            <p>Now then, even as blinde-men
+<pb n="3" facs="tcp:19325:5"/>
+are commonly wranglers and cho<g ref="char:EOLhyphen"/>lerick;
+ſo alſo ſuch as are moſt vio<g ref="char:EOLhyphen"/>lent
+receive leaſt inſtruction: there<g ref="char:EOLhyphen"/>fore
+hee that ſhall remedy this igno<g ref="char:EOLhyphen"/>rance,
+ſhall likewiſe appeaſe this fu<g ref="char:EOLhyphen"/>riouſneſſe.
+But, the evill is without
+remedy in him that endeavoureth
+to be ignorant, and feareth to know
+the will of God, leſt hee ſhould bee
+ſo much the more obliged to follow
+it. This is (my Maſters) the diſeaſe
+of this Age: in which, people make
+profeſſion of following without
+knowing, and to beleeve his Church
+without knowing what the Church
+ought to beleeve; and reſteth upon
+the faith of other, being ignorant of
+the rule of faith, which is the Word
+of God: as if thoſe that lead us ought
+to bee our warrants againſt GOD's
+judgement, or as if it were a vertue
+to beleeve in God by Attorney.</p>
+            <p>Indeed, people ought to obey
+their Guides, in caſe God bee their
+Guide; and beleeve that which they
+teach, if ſo bee that which they de<g ref="char:EOLhyphen"/>liver
+<pb n="4" facs="tcp:19325:6"/>
+bee drawne from the Word of
+God.<note place="margin">The Index of bookes forbidden, together with the rules which were made by the fa<g ref="char:EOLhyphen"/>thers that were cho<g ref="char:EOLunhyphen"/>ſen thereto by the Tre<g ref="char:cmbAbbrStroke">̄</g>t Synod. The fourth rule. In as much as it is plainly ſeen by experi<g ref="char:EOLhyphen"/>ence, that if the Bible bee every where ſuffe<g ref="char:EOLhyphen"/>red to bee read in the vulgar tongue without a<g ref="char:EOLhyphen"/>ny reſtraint, more hurt then good will thence ariſe, by occaſion of mens raſhnes. Hee that without ſuch like licence ſhall pre<g ref="char:EOLhyphen"/>ſume to read or have the Bible, may not have an abſolution of his ſinnes, vnleſſe hee firſt deliver it up into the hands of the Or<g ref="char:EOLhyphen"/>dinary.</note> The which if they hide from
+the people, and hinder the reading
+thereof, it is a ſigne that they find
+themſelves guilty; or that, in ſtead of
+ſubjecting themſelves to this rule,
+they will have the ſoveraign rule to
+bee their authority. For, wherefore
+ſhould the Word of God, contained
+in holy Scriptures, bee a ſuſpicious
+thing unto us, and as it were a dange<g ref="char:EOLhyphen"/>rous
+book? Wherefore ſhould not
+children bee permitted to ſee their
+fathers Teſtament? The Apoſtle
+Saint <hi>Paul</hi> hath written his Epiſtles
+to the people of Rome, of Corinth
+and Epheſus, to the end they might
+read them: wherefore then ſhould
+Chriſtian people at this day bee de<g ref="char:EOLunhyphen"/>prived
+of the reading of them? The
+<pb n="5" facs="tcp:19325:6"/>
+Catholike Epiſtles of Saint <hi>Iames,</hi>
+               <note place="margin">Where it is to be noted, that there it is ſpoken of Bibles tran<g ref="char:EOLhyphen"/>ſlated by Catholick Roman Au<g ref="char:EOLhyphen"/>thors.</note> S.
+<hi>Peter,</hi> and Saint <hi>Iohn,</hi> are written to
+all the faithfull in generall: where<g ref="char:EOLhyphen"/>fore
+then ſhould not Chriſtian peo<g ref="char:EOLhyphen"/>ple
+read thoſe Letters which are ex<g ref="char:EOLhyphen"/>preſly
+directed unto them, and are
+written for their inſtruction? wher<g ref="char:EOLhyphen"/>fore
+may they not read the writings
+of the Prophets, as well as the peo<g ref="char:EOLhyphen"/>ple
+of Berea? which, coming from
+Saint <hi>Pauls</hi> Sermon, went and con<g ref="char:EOLhyphen"/>ferred
+it with the Scriptures. To
+what end are Texts alleaged in Ser<g ref="char:EOLhyphen"/>mons,
+if it bee not lawfull for the
+Auditor to goe home and ſee in the
+Scriptures,<note place="margin">Acts 17. 11</note> whether they bee truely
+alleaged or no? A horrible thing,
+that in thoſe Countries where the
+Inquiſition raigneth, it is a crime
+worthy the fire to have a Bible in
+the vulgar tongue; whil'ſt not one<g ref="char:EOLhyphen"/>ly
+the reading of fables is tolerated,
+but whoredome alſo eſtabliſhed
+there by law and politick regiment.
+If ſo bee the Tranſlation bee not
+thought true by the Pope, his Holi<g ref="char:EOLhyphen"/>neſſe
+<pb n="6" facs="tcp:19325:7"/>
+ſhould give order for a Tran<g ref="char:EOLhyphen"/>ſlation
+fitting his judgement.</p>
+            <p>To ſay, that ſome abuſe this rea<g ref="char:EOLhyphen"/>ding,
+is to accuſe the Apoſtles of fol<g ref="char:EOLhyphen"/>ly
+to have written their<note n="*" place="margin">The A<g ref="char:EOLhyphen"/>poſtles did write in a language moſt pub<g ref="char:EOLhyphen"/>likely un<g ref="char:EOLhyphen"/>derſtood.</note> Epiſtles
+to chriſtian people, without foreſee<g ref="char:EOLhyphen"/>ing
+that they might abuſe the ſame:
+by the ſame reaſon, they might for<g ref="char:EOLhyphen"/>bid
+the preaching thereof, becauſe
+many doo abuſe it. Men abuſe even
+the very goodnes of GOD. Nay,
+which is more, it was never ſeene,
+that any of the people did ever forge
+any Hereſie through reading of the
+Scripture. All our Hereſiarchs have
+been perſons that have had place in
+the Church. Now, if to reade the
+holy Scripture, wee muſt have ſpe<g ref="char:EOLhyphen"/>ciall
+leave given us, is it not a miſe<g ref="char:EOLhyphen"/>rable
+thing that wee may not obey
+God but upon ſufferance, and that
+God can have no ſervants without
+the Biſhop of Romes permiſſion? Or
+if they ſay, it is not for ignorant peo<g ref="char:EOLhyphen"/>ple
+to read them: I anſwer, that all
+men are ignorant in religion before
+<pb n="7" facs="tcp:19325:7"/>
+they read them, and that men may
+not without impiety aſcribe any skil
+unto themſelves in religion, beſides
+or without the Scripture.</p>
+            <p>Shake off then (my Maſters) this
+ſcrupulous feare, by which God is
+wronged, as if his Word were con<g ref="char:EOLhyphen"/>tagious,
+and a ſnare laid for weake
+conſciences; leſt upon you bee ac<g ref="char:EOLhyphen"/>compliſhed
+the Prophecy of <hi>Eſay,</hi>
+               <note place="margin">Eſay 5. 13</note>
+               <hi>My people are in captivity, becauſe they bee
+without knowledge:</hi> and the ſaying of
+our Saviour, <hi>You erre, not knowing the
+Scriptures.</hi> Let not this pretious trea<g ref="char:EOLhyphen"/>ſure
+bee wrung out of your hands;
+this contract of our ſpirituall marri<g ref="char:EOLhyphen"/>age
+with the Sonne of God: hould
+them as ſuſpected perſons, who du<g ref="char:EOLhyphen"/>ring
+this night of ignorance do hide
+this heavenly Light, and in the mean
+time light up their owne candles at
+high-noon. Hope not to bee ſaved
+by the faith of others: for, God de<g ref="char:EOLhyphen"/>clares
+unto us,<note place="margin">Hab. 4. 2</note> that <hi>The iuſt ſhall live
+by his owne faith:</hi>
+               <note place="margin">Mat. 15. 14</note> and that <hi>If the blinde
+lead the blinde, they ſhall both fall into the
+ditch.</hi>
+            </p>
+            <p>
+               <pb n="8" facs="tcp:19325:8"/>
+Now, that you may knowe that
+they take the Scriptures away from
+you, not to keep you in ſobriety, but
+to detaine you in ignorance; conſi<g ref="char:EOLhyphen"/>der,
+that in the Roman Church they
+read publikely unto you ſome chap<g ref="char:EOLhyphen"/>ters
+of the Bible in a tongue which
+you underſtand not. If in theſe chap<g ref="char:EOLhyphen"/>ters
+GOD were ſpoken unto, one
+might excuſe it; ſaying, that GOD
+underſtands all languages: but theſe
+chapters are divine Lectures, in w<hi rend="sup">ch</hi>
+God ſpeaketh unto men. Tell me in
+conſcience, wherefore ſhould God
+bee a Barbarian unto us, and ſpeak to
+us in an unknowne tongue? Where<g ref="char:EOLhyphen"/>fore
+ſpeaks hee unto men, but to the
+end they ſhould underſtand him?
+Wherefore ſhould thoſe things, w<hi rend="sup">ch</hi>
+every where elſe would be eſteemed
+ridiculous and againſt co<g ref="char:cmbAbbrStroke">̄</g>mon ſenſe,
+bee thought good and comely in re<g ref="char:EOLhyphen"/>ligion?
+But, is it not a ſleight of the
+enimy of our ſalvation; that he might
+make Chriſtianity ridiculous, and
+hinder the Word of God from bee<g ref="char:EOLhyphen"/>ing
+<pb n="9" facs="tcp:19325:8"/>
+underſtood of you? to the end
+likewiſe that the threatning may be
+accompliſhed which God uſeth to
+a people with whom hee is angry,
+<hi>I will ſpeak to this people by men of other
+language,</hi>
+               <note place="margin">1 Cor. 14. 21.</note> 
+               <hi>&amp; in a ſtrange tongue, and ſo
+they ſhall not underſtand mee.</hi>
+            </p>
+            <p>This evil hath produced another:
+for, in taking away from you the ho<g ref="char:EOLhyphen"/>ly
+Scriptures which make men lear<g ref="char:EOLhyphen"/>ned,
+they have given you Images,
+which they call the books of igno<g ref="char:EOLhyphen"/>rant
+men, becauſe they nouriſh igno<g ref="char:EOLhyphen"/>rance:
+therewithall they buſie the
+people, in ſtead of inſtructing them;
+in ſtead of teaching them, they make
+them paſſe-time. But becauſe that
+againſt this ſame, the ſecond of Gods
+commandements is expreſſe, which
+forbids in matter of Gods ſervice to
+make any Image, and to fall downe
+before any repreſentation of anie
+thing in Heaven or earth; and that
+his Law, pronounced with thunde<g ref="char:EOLhyphen"/>ring,
+affrighteth even to this day this
+ſuperſtition: theſe Doctours have
+<pb n="10" facs="tcp:19325:9"/>
+impoſed ſilence unto this Lawe of
+God, and dare to raze out this com<g ref="char:EOLhyphen"/>mandement
+out of thoſe books, prai<g ref="char:EOLhyphen"/>ers
+and ſervice-bookes, which they
+appoint them to uſe: A thing wher<g ref="char:EOLhyphen"/>in
+wee may ſuſpect our owne eyes,
+and hardly beleeve when wee ſee it,
+that very wormes of the earth have
+made ſo bould as to correct the Law
+of God pronounced with his owne
+mouth; yea, that ſame Lawe, by
+which they ſhall bee judged at the
+laſt day.</p>
+            <p>Vnto ſuch enterpriſes the holie &amp;
+ſacred name of Church ſerveth as a
+cloak. It is ſaid that the Church can<g ref="char:EOLhyphen"/>not
+erre; that ſhe is ſoveraign Iudge
+of the points and doubts of faith;
+that ſhee is the faithfull interpreter
+of the Scripture. By which Church,
+is underſtood not the Greek, nor the
+Syrian, nor the African (although
+more ancient &amp; more pure than the
+Romane); but onely the Romane
+Church, which, having never been
+but a particular Church, cals herſelf
+<pb n="11" facs="tcp:19325:9"/>
+the Vniverſall. By this meanes the
+Church of Rome is becomne Iudge
+in her own cauſe. The Greek Chur.
+more ancient than the Roman, com<g ref="char:EOLhyphen"/>plaineth
+that the Roman Church is
+revolted and ſeparated from her,
+producing againſt her her chaires,
+her ſucceſſion, her antiquity. In this
+conteſtation, the Romane Church
+vanteth herſelf to bee Iudge, and ſo
+will bee both Iudge and Party. In
+the queſtion whether the Romane
+Church can erre, ſhee herſelfe will
+be Iudge; and (which is more) whe<g ref="char:cmbAbbrStroke">̄</g>
+there is queſtion of deciding what
+the Churches duty is, the Romane
+Church will bee ſoveraigne Iudge,
+to the end ſhee may have no other
+lawes but of her owne eſtabliſhing,
+and what ſhee will carve out for her
+owne ſelf. And, moreover, when the
+ſenſe and interpretation of the Lawe
+of God lieth at the ſtake, ſhee eſtee<g ref="char:EOLhyphen"/>meth
+herſelf the infallible expoun<g ref="char:EOLhyphen"/>der,
+and reputes her owne interpre<g ref="char:EOLhyphen"/>tation
+of equall authority with the
+<pb n="12" facs="tcp:19325:10"/>
+Law of God; yet is it certaine, that
+by this Law ſhee ſhall bee judged at
+the later day. Now, there is no raſh<g ref="char:EOLhyphen"/>nes
+ſo extravagant, as to put ſinners
+for infallible judges of the ſenſe of
+the Lawe, by which their ſinnes are
+to be judged. What obedience think
+you is the Soveraign Maſter to look
+for, if his ſervants may ſay unto him,
+Thou haſt indeed commanded us
+that ſame, but wee interpret it thus,
+and doo judge that thy commande<g ref="char:EOLhyphen"/>ment
+ought thus to bee underſtood;
+and thou knoweſt, that wee are un<g ref="char:EOLhyphen"/>doubted
+judges in ſuch matters, and
+that our interpretations are of equal
+authority to thy commandements?
+By this reckoning, it were better to
+bee ſervant than Maſter. By which
+of theſe two (thinke you) ſhall the
+Prelates of the Church of Rome be
+judged at the laſt day? whether by
+the Law of God, or by their owne
+interpretations? I referre this to the
+judgement of any man that hath but
+the remainder of common ſenſe left
+<pb n="13" facs="tcp:19325:10"/>
+him, or any ſpark of free and unpre<g ref="char:EOLhyphen"/>ocupate
+conceipt, which of the two
+ought rather to be ſupream Iudge in
+religion: whether God, ruling and
+teaching the Church by his Word;
+or the church, that ought to receive
+this Word, and obey him. Who ſhall
+rather be Iudge, the ſcripture which
+co<g ref="char:cmbAbbrStroke">̄</g>mands there ſhould be a Church,
+and giveth it lawes; or the Church,
+which onely giveth atteſtation that
+that is the Scripture? ſpecially con<g ref="char:EOLhyphen"/>ſidering,
+that even this teſtimony
+may be given by a corrupt Church,
+and diſobedient to this Scripture.
+Who ſhall bee rather Iudge, the
+Scripture which is one, and judgeth
+without paſſion; or the Church,
+which is divided into co<g ref="char:cmbAbbrStroke">̄</g>trary chur<g ref="char:EOLhyphen"/>ches
+which cannot bee aſſembled,
+and whoſe Paſtors are ſubject to am<g ref="char:EOLhyphen"/>bition
+and avarice, and fitter to bee
+had in ſuſpicion when there is anie
+queſtion of their profit or authority?</p>
+            <p>Heere (my Maſters) it is eaſie to
+ſhewe you, that they lead you in a
+<pb n="14" facs="tcp:19325:11"/>
+way by which it is altogether im<g ref="char:EOLhyphen"/>poſſible
+you ſhould bee ſaved: for,
+you are taught ſimply to beleeve the
+Church of Rome, and without far<g ref="char:EOLhyphen"/>ther
+enquiry to depend entirely up<g ref="char:EOLhyphen"/>on
+her authority; and yet you are
+deprived of all means to know whe<g ref="char:EOLhyphen"/>ther
+this Church, whereunto you
+give credit, bee pure, and teacheth
+true doctrine. For, how ſhould you
+knowe that? ſhould it be by the ho<g ref="char:EOLhyphen"/>ly
+Scriptures? yea, but this book is
+not permitted you. At Rome and in
+Spaine, to read in it, is no leſſe than
+burning at a ſtake: or would you
+knowe it by the Antients? thoſe are
+greek &amp; latin books which the peo<g ref="char:EOLhyphen"/>ple
+underſtand not. What knowes
+an artificer, or a woman, or an huſ<g ref="char:EOLhyphen"/>bandman
+amongſt you, whether the
+Church teacheth conformably un<g ref="char:EOLhyphen"/>to
+the Scripture? or if their church
+bee ſuch as it was ſome 12. or 1500.
+years ſince? or whether of a long liſt
+of Popes pictured, the firſt have be<g ref="char:EOLhyphen"/>leeved
+as the laſt, and that the times
+<pb n="15" facs="tcp:19325:11"/>
+have altered nothing? In briefe, you
+have no other proof of the purity of
+your church, but the witnes of your
+Church it ſelf: whoſe Prelates, van<g ref="char:EOLhyphen"/>ting
+themſelves that they cannot
+erre, in the meane time deprive you
+of all means to diſcern of error from
+truth; by hiding from you the rule
+of truth, which is the holy Scrip<g ref="char:EOLhyphen"/>tures.
+But wherfore ſhould the Ro<g ref="char:EOLhyphen"/>man
+Church rather have this perfe<g ref="char:EOLhyphen"/>ction,
+that the Greek or the Syrian
+(more antient and more pure than
+the Roman) founded by Ieſ. Chriſt
+himſelfe, and by his Apoſtles; and
+who alſo brag to have Saint <hi>Peters</hi>
+chair? Doth the Scripture give un<g ref="char:EOLhyphen"/>to
+the Roman Church any preroga<g ref="char:EOLhyphen"/>tive
+above others? or doth it give
+her the priviledge of not erring?</p>
+            <p>From hence doe enſue two things
+as cleere as the day: the one, that
+your faith is grounded onely upon
+the authority of men, and by conſe<g ref="char:EOLhyphen"/>quent
+that your religion is a humane
+religion and not divine. Whoſoe<g ref="char:EOLhyphen"/>ver
+<pb n="16" facs="tcp:19325:12"/>
+ſaith, I beleeve the Goſpell and
+the Word of GOD, becauſe the
+Church ordaineth it, maketh the
+Church more credible than God.
+To doubt of Gods truth, is a leſſe
+crime, than to make it depend upon
+men. The other is, that, of all hu<g ref="char:EOLhyphen"/>mane
+witneſſes, you ground your
+ſelves upon the worſt and moſt un<g ref="char:EOLhyphen"/>certain:
+for, you ſay, your Church
+is good becauſe ſhee ſaith it, and ſo
+doo make her Iudge in her owne
+cauſe; not conſidering, that by this
+word Church, you underſtand not
+Chriſtian people, nor the generality
+of Paſtors, but the Pope and ſome
+fewe Prelates whoſe rules are called
+Church-rules, although they tend
+onely to the profit of the Clergie,
+and the advancement of the Empire
+of the Biſhop of Rome.</p>
+            <p>And you poor ſoules, whom God
+hath framed after his owne Image,
+whom hee hath redeemed with the
+blood of his Son, whom God ſolli<g ref="char:EOLhyphen"/>citeth
+by his Word, will you lan<g ref="char:EOLhyphen"/>guiſh
+<pb n="17" facs="tcp:19325:12"/>
+alwaies in this captivity? will
+you heap up unto your ſelves the
+wrath and indignation of the Lord,
+by rejecting the ſalvation which is
+propoſed you?</p>
+            <p>I confeſſe, that the Roman Chur.
+in certain points alleageth ſcripture,
+and that between her and us there is
+ſtrife about the interpretation: but
+we make uſe of the Scripture in ano<g ref="char:EOLhyphen"/>ther
+manner than thoſe which teach
+you.</p>
+            <p>For firſt, they are afraid the peo<g ref="char:EOLhyphen"/>ple
+ſhould read the Scriptures: but
+we exhort men thereunto.</p>
+            <p>Secondly, they perſwade you, that
+the Scripture is obſcure and ambi<g ref="char:EOLhyphen"/>guous:
+but we ſay, all things neceſ<g ref="char:EOLhyphen"/>ſary
+unto ſalvation are therein layd
+downe with much clearneſs.</p>
+            <p>Thirdly, they ſay that the Scrip<g ref="char:EOLhyphen"/>ture
+is an unperfect rule, they will
+needs have another unwritten word,
+and traditions of the Church equall
+in authority to the Scripture: wee
+(on the contrary) ſay, that the holie
+<pb n="18" facs="tcp:19325:13"/>
+Scripture can make us wiſe unto ſal<g ref="char:EOLhyphen"/>vation,<note place="margin">1 Tim. 15. 1</note>
+and that wee ought not to bee
+wiſe beyond what is written;<note place="margin">1 Cor. 6. 4</note> and
+that in that which is cleare in the
+Scriptures, and needeth no interpre<g ref="char:EOLhyphen"/>tation,
+are co<g ref="char:cmbAbbrStroke">̄</g>tained all the doctrines
+neceſſary unto ſalvation.</p>
+            <p>Fourthly, when wee alleage the
+Scripture, we alleage it as ſoveraign
+Iudge, and as it that ruleth the Chur.
+and giveth her her authority: but
+the Romane Church alleageth the
+Scripture as a doctrine authorized
+by the Church, and that you ought
+to receive it becauſe the Church
+hath ordained it.</p>
+            <p>Fiftly, when wee interpret the
+Scriptures, wee give not out our in<g ref="char:EOLhyphen"/>terpretations
+for lawes as doth the
+Roman Church, nor call our ſelves
+judges or infallible interpreters of
+the holy Scriptures.</p>
+            <p>Finally, when wee interpret the
+Scriptures, wee draw our interpre<g ref="char:EOLhyphen"/>tations
+from the Scripture it ſelf: but
+the Roman Church draw their in<g ref="char:EOLhyphen"/>terpretations
+<pb n="19" facs="tcp:19325:13"/>
+from the unwritten
+word and from tradition. For ex<g ref="char:EOLhyphen"/>ample:
+wee expound thoſe words,
+<hi>This is my body,</hi>
+               <note place="margin">He took the bread, gave it, &amp;c. Do this in remem<g ref="char:EOLhyphen"/>brance of me.</note> 
+               <hi>By the bread which I give
+you is the commemoration of my body;</hi> the
+which expoſitio<g ref="char:cmbAbbrStroke">̄</g> is found in the text
+it ſelf of the inſtitution of the ſacra<g ref="char:EOLhyphen"/>ment:
+or by theſe words of the A<g ref="char:EOLhyphen"/>poſtle,
+1. <hi>Cor. 10. 16, The bread which
+wee break is the communion of the body of
+Chriſt.</hi> Your Teachers do not thus
+interpret the Scriptures: for, they
+draw their interpretations from the
+unwritten word and from tradition.
+When the Lord ſaid to <hi>Peter, I have
+prayed that thy faith fail not;</hi> they ſay,
+that by theſe words Saint <hi>Peter</hi> and
+the Popes of Rome, his ſucceſſours,
+were promiſed the vertue that they
+could not erre: but the Scripture
+ſpeaketh not of Popes or of Biſhops
+of Rome, nor grants unto Saint <hi>Pe<g ref="char:EOLhyphen"/>ter</hi>
+any ſucceſſor in his Apoſtleſhip.
+So <hi>Malachie</hi> ſpeaketh of a pure ob<g ref="char:EOLhyphen"/>lation
+which was to bee made in all
+places;<note place="margin">Mal. 1. 11</note> This oblation, according to
+<pb n="20" facs="tcp:19325:14"/>
+the interpretation of theſe Maſters, is
+the Maſſe; in which they ſay the bo<g ref="char:EOLhyphen"/>dy
+of Chriſt is really ſacrificed. But
+this interpretation is taken out of the
+unwritten word: for, the holy ſcrip<g ref="char:EOLhyphen"/>ture
+ſpeaketh not of any Maſſe, nor
+of the ſacrifice of the body of Ieſus
+Chriſt, nor eſtabliſheth any ſacrifi<g ref="char:EOLhyphen"/>cers
+in the Church to ſacrifice the
+Son of God. So, when the Scripture
+ſaith, <hi>Thou ſhalt worſhip one God, and
+ſhalt ſerve him alone;</hi> The interpretati<g ref="char:EOLhyphen"/>ons
+of theſe Maſters is, that God for<g ref="char:EOLhyphen"/>biddeth
+onely the worſhip of <hi>Latria,</hi>
+but not the adoratio<g ref="char:cmbAbbrStroke">̄</g> of <hi>Dulia,</hi> which
+is an inferiour religious ſervice. But,
+the Scripture ſpeaketh not of the a<g ref="char:EOLhyphen"/>doration
+of <hi>Dulia,</hi> nor of any other
+religious ſervice then that which is
+due unto God. Theſe are interpre<g ref="char:EOLhyphen"/>tations
+which the Romane Church
+draweth from the unwritten word,
+which is at the diſcretion of the Ro<g ref="char:EOLhyphen"/>miſh
+Church, nor can bee learned
+but from her mouth: for, I doo not
+think there is any that ever hath ſeen
+<pb n="21" facs="tcp:19325:14"/>
+all the inſtructions of this unwritten
+word reduced into one body;<note place="margin">
+                  <hi>Bellar. in Barkl. c.</hi> 3. He thinkes not rightly of the chur. of the chur. of Chriſt, that admits nothing but what hee reads ex<g ref="char:EOLhyphen"/>preſly to have bin al<g ref="char:EOLhyphen"/>ledged or practiſed in the old chu. as if the Church of later time either ceaſt to be a chr. or hath not authority to expreſſe and declare, to decree alſo, and co<g ref="char:cmbAbbrStroke">̄</g>ma<g ref="char:cmbAbbrStroke">̄</g>d thoſe things which con<g ref="char:EOLhyphen"/>cern faith &amp; Chriſtian manners.</note> and
+that becauſe this word changeth ac<g ref="char:EOLhyphen"/>cording
+to the age, and is fitted unto
+the time, and that the Romiſh Chur.
+hath power alſo to adde new articles
+thereunto even in the points of faith.</p>
+            <p>The greateſt miſchief is, that theſe
+traditions and inſtructions of the un<g ref="char:EOLhyphen"/>written
+word are not only additions
+unto the Scripture, but alſo manifeſt
+oppoſitions thereunto: whereof, the
+Maſs alone doth furniſh us with ma<g ref="char:EOLhyphen"/>ny
+examples. 1. For, Ieſus Chriſt,
+adminiſtring the holy Sacrament of
+the <hi>Eucharist,</hi> ſpake in a tongue un<g ref="char:EOLhyphen"/>derſtood
+of the ſtanders by: but the
+Prieſt in his Maſſe ſpeaketh in an un<g ref="char:EOLhyphen"/>known
+language. 2. Ieſus Chriſt ad<g ref="char:EOLhyphen"/>miniſtred
+to all there preſent: but
+the Prieſt oftentimes eateth &amp; drin<g ref="char:EOLhyphen"/>keth
+himſelfe alone. 3. Ieſus Chriſt
+communicated the cup unto all, and
+willed that all ſhould drink thereof:
+but the Prieſt drinketh alone, and de<g ref="char:EOLhyphen"/>nieth
+the chalice unto the people. 4.
+<pb n="22" facs="tcp:19325:15"/>
+Ieſus Chriſt offred nothing to God:
+but the Prieſt prayeth in the Maſſe,
+that God would be pleaſed with his
+oblation. 5. Ieſus Chriſt made no e<g ref="char:EOLhyphen"/>levation
+of the hoſte: but the Prieſt
+houldeth up an hoſte to bee adored.
+6. In the inſtitution of this holy Sa<g ref="char:EOLhyphen"/>crament
+there is no ſpeech of a ſa<g ref="char:EOLhyphen"/>crifice,
+nor of ſacrificing the body of
+Ieſus Chriſt: cleane contrary, the
+Prieſt pretendeth the ſacrificing of
+the body of Ieſus Chriſt in a reall &amp;
+propitiatory ſacrifice for the living
+and the dead alſo. 7. Vnder the Ta<g ref="char:EOLhyphen"/>ble
+of our Lord there were no re<g ref="char:EOLhyphen"/>liques
+hid,<note place="margin">We beſeech thee, Lord, through the merits of the Saints, whoſe re<g ref="char:EOLhyphen"/>licks wee have heer, and for the merits of all the Saints beſides, that thou woul<g ref="char:EOLhyphen"/>deſt vouch<g ref="char:EOLhyphen"/>ſafe to par<g ref="char:EOLhyphen"/>don all our ſins.</note> nor the bones of any Pa<g ref="char:EOLhyphen"/>triarch
+or Prophet: on the contrary,
+the Prieſt hath under the ſtones of
+his Altar the bones of the dead, with<g ref="char:EOLhyphen"/>out
+which reliques an Altar cannot
+bee conſecrated: and ſo according<g ref="char:EOLhyphen"/>ly
+the Prieſt in his Maſſe craveth ſal<g ref="char:EOLhyphen"/>vation
+by the merits of thoſe Saints
+whoſe bones lie hidden under that
+Altar; a thing that Ieſus Chriſt ne<g ref="char:EOLhyphen"/>ver
+thought of. 8. Ieſus Chriſt wit<g ref="char:EOLhyphen"/>neſſed,
+<pb n="23" facs="tcp:19325:15"/>
+that it was the fruit of the
+Vine that hee drank: but the Prieſt
+denies that it is ſo. 9. Ieſus Chriſt
+will, that we make commemoration
+of him: but the Prieſt pretendeth to
+make Ieſus Chriſt himſelf. 10. Saint
+<hi>Paul</hi> ſaith foure times, that we eat &amp;
+break bread: on the contrary, the
+Prieſt maintains, that we neither eat
+nor break bread. 11. The Lord inſti<g ref="char:EOLhyphen"/>tuteth
+a Sacrament: but the Prieſt
+celebrateth a Sacrifice. In a word,
+the one adminiſtreth the Communi<g ref="char:EOLhyphen"/>on;
+the other ſingeth Maſſe, expreſly
+made to diſ-figure the holy Supper
+of our Lord.</p>
+            <p>Theſe Maſters thinke themſelves
+well fenſed with uſing a childiſh re<g ref="char:EOLhyphen"/>crimination
+in objecting unto us, that
+ſeeing wee will imitate our Lord, we
+ought all to celebrate the Commu<g ref="char:EOLhyphen"/>nion
+after ſupper, &amp; in a high cham<g ref="char:EOLhyphen"/>ber,
+and not to admit of women: but
+neither the place, nor the houre, nor
+the ſex of the aſſiſtants, is either part
+or eſſence of the action; and without
+<pb n="24" facs="tcp:19325:16"/>
+any of theſe the action remaineth in<g ref="char:EOLhyphen"/>tire,
+nor hath Ieſus Chriſt touching
+the ſame given any rule, or forbid<g ref="char:EOLhyphen"/>den
+any circumſtance. But the cha<g ref="char:cmbAbbrStroke">̄</g>ge
+which wee object againſt them, is in
+things eſſentiall, and which change
+the nature of the action; ſeeing that
+thereby is introduced an adoration
+not commanded nor practiſed by
+the Apoſtles; and a ſacrifice eſtabli<g ref="char:EOLhyphen"/>ſhed,
+which our Lord hath not or<g ref="char:EOLhyphen"/>dained;
+and an authorized ſuperſti<g ref="char:EOLhyphen"/>tion
+about dead mens bones; and a
+publike repaſt changed into a private
+Maſs; and the people fruſtrate of un<g ref="char:EOLhyphen"/>derſtanding
+their ordinary ſervice;
+and inſtructed to take God, and to
+eat their Creator, &amp; adore the crea<g ref="char:EOLhyphen"/>ture;
+and deprived of one halfe of
+the Sacrament, to wit the cup, wher<g ref="char:EOLhyphen"/>of
+Chriſt hath ſaid,<note place="margin">1 Cor. 8. 11.</note> 
+               <hi>Drink ye all of this:</hi>
+as alſo the Apoſtle commandeth the
+people of Corinth to take the cup as
+well as the bread.<note place="margin">Let a man prove him<g ref="char:EOLhyphen"/>ſelf, and ſo eat of this bread, and drink of this cup.</note>
+            </p>
+            <p>Whereupon wee propoſe a means
+of agreement, which cannot bee re<g ref="char:EOLhyphen"/>fuſed
+<pb n="25" facs="tcp:19325:16"/>
+but by him that loves diſcord,
+or is thirſty of Chriſtian blood, or
+which will war againſt God: for, all
+Chriſtians confeſſe that Ieſus Chriſt
+hath done well, and that there is no<g ref="char:EOLhyphen"/>thing
+amiſſe in his inſtitution, and
+that even when it might bee lawfull
+to celebrate the holy Communion
+in ſome other faſhion then hee did;
+yet all agree, that it would not bee ill
+done to follow his example, ſpeak as
+hee ſpake, and doo as he did. Now,
+this is that which wee demand: and
+certaine it is, that the Pope might
+make an end of all conte<g ref="char:cmbAbbrStroke">̄</g>tions ſprung
+from this point, which trouble and
+divide Chriſtendome, if hee would
+reſtore the holy Communion unto
+the form in which our Lord did ce<g ref="char:EOLhyphen"/>lebrate
+it; laying aſide all diſputes, &amp;
+binding the people unto the example
+of the Son of God. What incommo<g ref="char:EOLhyphen"/>dities
+or inco<g ref="char:cmbAbbrStroke">̄</g>veniences ſoever might
+bee alleaged againſt the ſame, could
+not bee put in balance againſt the o<g ref="char:EOLhyphen"/>bedience
+which wee owe to Ieſus
+<pb n="26" facs="tcp:19325:17"/>
+Chriſt, &amp; againſt the peace of Chri<g ref="char:EOLhyphen"/>ſtendome,
+and the re-union of that
+rupture and ſeparation of people,
+which hath cauſed ſo many troubles,
+and ſpilt ſo much blood, and which
+goareth the ſide of the Ro. Church
+as well as ours, expoſing it to the vi<g ref="char:EOLhyphen"/>olence
+of Turks and Infidels.</p>
+            <p>Every ſpirit that is not preoccupa<g ref="char:EOLhyphen"/>ted
+will eaſily acknowledge, that this
+is the language of truth: wherewith,
+leſt your conſciences ſhould bee tou<g ref="char:EOLhyphen"/>ched,
+they uſe a device, namely, to
+repreſent unto you our religion alto<g ref="char:EOLhyphen"/>gether
+other then it is, and paint it
+out unto you like a hideous monſter,
+and to make us ſpeake things wholly
+againſt our beleef. And thereupon,
+many amongſt you are of ſo eaſie be<g ref="char:EOLhyphen"/>leef,
+as to chuſe rather to learne what
+our religion is by our enemies invec<g ref="char:EOLhyphen"/>tives,
+than by our owne confeſſion;
+yea, after wee have proteſted, not to
+beleeve any thing of all they father
+upon us, yet would they make us per<g ref="char:EOLhyphen"/>ſwade
+our ſelves, that wee beleeve
+<pb n="27" facs="tcp:19325:17"/>
+that which wee beleeve not: where<g ref="char:EOLhyphen"/>in
+they juſtifie us before they bee a<g ref="char:EOLhyphen"/>ware.
+For, thereby they privily con<g ref="char:EOLhyphen"/>feſſe,
+that our religion truely propo<g ref="char:EOLhyphen"/>ſed
+cannot bee encountred; and that
+if it were repreſented in as true co<g ref="char:EOLhyphen"/>lours,
+at the very firſt it would make
+a ſtrong impreſſion in the minde of
+the Auditor through the evidence of
+the truth thereof. They tell you, 1.
+that our religion teacheth, that good
+works are not neceſſary; 2. that the
+Elect may without danger licence
+themſelves to doo evill; 3. that God
+gives no recompenſe to good works;
+4. that God conſtraineth our willes,
+and forceth them unto good; 5. that
+we accuſe God of injuſtice, as having
+given us a law which wee cannot ac<g ref="char:EOLhyphen"/>compliſh;
+6. that wee are enemies to
+the Saints and the Virgin <hi>Mary;</hi> 7.
+that for the underſtanding of the
+Scriptures, every one of us vanteth
+to have a particular inſpiration; 8. and
+that wee deny the Almightineſſe of
+God in the Euchariſt.</p>
+            <p>
+               <pb n="28" facs="tcp:19325:18"/>
+Is not this all falſe, and contrary to
+our beleef? 1. Our religion teacheth,
+that good works are neceſſary unto
+ſalvation: for, men goe not to Hea<g ref="char:EOLhyphen"/>ven
+by the way of hell, nor unto the
+Kingdome of God by ſerving the di<g ref="char:EOLhyphen"/>vell.
+2. Our religion teacheth, that
+the predeſtinated unto ſalvation
+are alſo predeſtinate to live holily.
+To ſay, <hi>I may abandon my ſelf unto evill
+ſeeing I am elected,</hi> it is the language of
+a reprobate, who will be bad becauſe
+God is good, and who makes of the
+grace of God, which is a ſpurre unto
+vertue, a pillow to ſleep upon in all
+vice. 3. Our religion beleeveth, that
+God rewardes good works, but with
+a ſalary freely given. 4. We beleeve
+that God conſtraineth not our wills,
+but bendeth them, and cauſeth them
+to give themſelves willingly unto
+good. 5. We eſteem it not a thing un<g ref="char:EOLhyphen"/>juſt
+that God ſhould demand at mans
+hands that which hee cannot, when
+man doth owe it, and when his una<g ref="char:EOLhyphen"/>bleneſſe
+commeth of his owne de<g ref="char:EOLhyphen"/>fault.
+<pb n="29" facs="tcp:19325:18"/>
+fault. 6. We honor the Saints as they
+honoured the Saints that were be<g ref="char:EOLhyphen"/>fore
+them. 7. For the underſtanding
+of the Scriptures, wee content our
+ſelves with that which we finde clear
+in them, and leave particular inſpira<g ref="char:EOLhyphen"/>tions
+to frantick perſons. 8. Wee de<g ref="char:EOLhyphen"/>ny
+not the omnipotency of God in
+the Euchariſt, but rule our ſelves ac<g ref="char:EOLhyphen"/>cording
+to his will: wee uſe the Sa<g ref="char:EOLhyphen"/>crament
+of the Communion, not to
+make Ieſus Chriſt, but to honor him;
+not to make his body deſcend unto
+us, but to elevate our hearts to him.
+Wee undertake not to take GOD in
+this life, but content our ſelves that
+hee take us at our deaths. Wee feare
+not, that God can fall to the ground,
+or be ſtolne away, or gnawn by mice,
+or eaten by his enemies. We beleeve
+not that the Son of God and the di<g ref="char:EOLhyphen"/>vell
+could enter both together into
+<hi>Iudas;</hi> nor that Ieſus Chriſt did eat
+himſelf, ſeeing it was nothing neceſ<g ref="char:EOLhyphen"/>ſary
+for our ſalvation.</p>
+            <p>Our religion is a religion which
+<gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="28" facs="tcp:19325:19"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="29" facs="tcp:19325:19"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="28" facs="tcp:19325:20"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="29" facs="tcp:19325:20"/>
+               <pb n="30" facs="tcp:19325:21"/>
+acknowledgeth no other head of the
+Church but Ieſus Chriſt, nor other
+rule of faith then his Word, nor o<g ref="char:EOLhyphen"/>ther
+propitiatory ſacrifice then his
+Death, nor other purgatory then his
+Blood, nor other merit than his O<g ref="char:EOLhyphen"/>bedience.</p>
+            <p>It is a religion, which would have
+the people to read the word of God,
+becauſe we fear not to finde our con<g ref="char:EOLhyphen"/>demnation
+therein; and which ſpea<g ref="char:EOLhyphen"/>keth
+in a knowne tongue, for that it
+is not aſhamed of her beleef.</p>
+            <p>It is a religion, which holdeth fa<g ref="char:EOLhyphen"/>ſting
+to bee in abſtinence, and not in
+diſtinction of meats: wee faſt for ex<g ref="char:EOLhyphen"/>erciſe
+of humility, and not in opini<g ref="char:EOLhyphen"/>on
+of merit or ſatisfaction: wee bor<g ref="char:EOLhyphen"/>row
+not other mens ſatisfactions; but
+wee beleeve with the Apoſtle, <hi>That e<g ref="char:EOLhyphen"/>very
+one ſhall bear his owne burden.</hi>
+            </p>
+            <p>It is a religion, which diſtruſting
+her owne works beleeveth in Gods
+promiſes, which preacheth the aſſu<g ref="char:EOLhyphen"/>rance,
+and not the doubt of her ſalva<g ref="char:EOLhyphen"/>tion,
+recommendeth an humble aſſu<g ref="char:EOLhyphen"/>rance,
+<pb n="31" facs="tcp:19325:21"/>
+and not an arrogant perplexi<g ref="char:EOLhyphen"/>ty,
+by which they that ſet forth their
+merits, make a profeſſion to doubt of
+their ſalvation.</p>
+            <p>It is a religion, wherein men con<g ref="char:EOLhyphen"/>feſſe
+they have often don that which
+God hath forbidden, farre from ha<g ref="char:EOLhyphen"/>ving
+done more than hee hath com<g ref="char:EOLhyphen"/>manded;
+ſo farre from dooing over<g ref="char:EOLhyphen"/>much,
+as that they faile even of that
+which is neceſſary: they pretend not
+to make God a debter by their works
+of ſupererogation, but confeſs them<g ref="char:EOLhyphen"/>ſelves
+debters through their diſobe<g ref="char:EOLhyphen"/>dience.</p>
+            <p>It is a religion, which, in ſtead of
+forming of ſtones to the likeneſſe of
+man, endeavoureth to reforme man
+unto the image of God; which, in
+ſtead of adoring a wooden croſſe, ad<g ref="char:EOLhyphen"/>oreth
+the crucified, truſteth in his
+paſſion, and glorieth in his reproach.</p>
+            <p>It is a religion, which beleeves not
+that God taketh pleaſure to torment
+the ſoules of his children in burning
+fire, and to puniſh them for faults al<g ref="char:EOLhyphen"/>ready
+<pb n="32" facs="tcp:19325:22"/>
+ready pardoned, and for which Ieſus
+Chriſt hath fully ſatisfied by puniſh<g ref="char:EOLhyphen"/>ment;
+which ſerveth not to amend
+the ſinner, but to content the Iuſtice
+of God.</p>
+            <p>It is a religion, which maketh not
+her praiers by count, nor placeth the
+power of it in the number of the re<g ref="char:EOLhyphen"/>petition
+of one &amp; the ſelf ſame prai<g ref="char:EOLhyphen"/>er;
+but in the faith and diſpoſition of
+the heart.</p>
+            <p>It is a religion, which holdeth that
+faith conſiſteth not in ignorance, but
+in knowledge: which equally diſtri<g ref="char:EOLhyphen"/>buteth
+holy things to rich and poor;
+not like as in the Romane Church,
+whoſe diſpenſations &amp; letters of ab<g ref="char:EOLhyphen"/>ſolution
+are ſold, and particular Maſ<g ref="char:EOLhyphen"/>ſes
+never ſaid for him that hath no<g ref="char:EOLhyphen"/>thing
+to give.</p>
+            <p>Briefly, it is a religion which hath
+leſſe ſplendour without, but more ſo<g ref="char:EOLhyphen"/>lidneſs
+within; which will endure
+narrow ſifting; which ordaineth few
+ceremonies, but giveth much inſtru<g ref="char:EOLhyphen"/>ction.</p>
+            <p>
+               <pb n="33" facs="tcp:19325:22"/>
+You wil heer ſay, But theſe things
+are new. How new, ſeeing Ieſus
+Chriſt and his Apoſtles have thus
+taught? Indeed theſe are new to per<g ref="char:EOLhyphen"/>ſons
+brought up in an inveterate er<g ref="char:EOLhyphen"/>rour;
+and you knowe, that healing is
+alwaies newer than ſicknes: but wee
+muſt alwaies goe up to the ſpring<g ref="char:EOLhyphen"/>head
+of truth; in compariſon of w<hi rend="sup">ch</hi>,
+all ould errour is new. Never did a<g ref="char:EOLhyphen"/>ny
+man oppoſe himſelfe to any roo<g ref="char:EOLhyphen"/>ted
+errour ſettled by long cuſtome,
+who hath not been accuſed of novel<g ref="char:EOLhyphen"/>ty.
+And this reproach of novelty is
+very unſeemly in their mouthes who
+hide from the people the true Anti<g ref="char:EOLhyphen"/>quity,
+which is the holy Scriptures;
+and who to this day maintaine, that
+the Church can make new ordinan<g ref="char:EOLhyphen"/>ces
+touching faith; and, by the
+Church, underſtand no other but the
+Roman, who in the very firſt time af<g ref="char:EOLhyphen"/>ter
+the Apoſtles cannot ſhewe one
+man of their religion; &amp; who knowe
+that in all Antiquity there is no men<g ref="char:EOLhyphen"/>tion
+made of excluding the people
+<pb n="34" facs="tcp:19325:23"/>
+from the cup, nor of forbidding from
+the reading of the Scriptures, nor of
+reading the Scriptures unto them in
+an unknowne tongue which they un<g ref="char:EOLhyphen"/>derſtand
+not, nor of picturing the
+Trinity, nor of adoring Images, nor
+the Hoſte, with the adoration of <hi>La<g ref="char:EOLhyphen"/>tria,</hi>
+nor of private Maſſes, nor of the
+Biſhop of Romes Court, nor of his
+Indulgences and Church-Treaſure,
+nor of his power to depoſe Kings, &amp;
+draw ſoules out of Purgatory, nor of
+many other new corruptions which
+they plaiſter over with the fraudu<g ref="char:EOLhyphen"/>lent
+title of Apoſtlique traditions,
+as if they came from the Apoſtles.</p>
+            <p>The themſelves, who thus vaunt
+of Antiquity, are thoſe which uſe the
+antient Doctours moſt courſely, cen<g ref="char:EOLhyphen"/>ſuring
+and condemning them upon
+ſlight occaſion: who will that the
+Fathers ſhould be interpreters of the
+Scriptures, in caſe they themſelves a<g ref="char:EOLhyphen"/>lone
+may be the fathers interpreters,
+and the Iudges of Antiquity; &amp; who
+not only condemn every Father per<g ref="char:EOLhyphen"/>ſonally,
+<pb n="35" facs="tcp:19325:23"/>
+but alſo whole Councels
+where the Fathers ſpeake in com<g ref="char:EOLhyphen"/>mon.</p>
+            <p>Three univerſall Cou<g ref="char:cmbAbbrStroke">̄</g>cels did con<g ref="char:EOLhyphen"/>demn <hi>Honorius,</hi> Biſhop of Rome, for <note place="margin">Cotton in the preface of his Ca<g ref="char:EOLhyphen"/>tholique in<g ref="char:EOLhyphen"/>ſtitution ſpeaks thus of theſe two univerſall Councels.</note> an heretique: but, at this day they
+maintain, that thoſe Councels miſ<g ref="char:EOLhyphen"/>took themſelves.<note place="margin">Greece be<g ref="char:EOLhyphen"/>gan in the year 388. to rebell a<g ref="char:EOLhyphen"/>gainſt the holy Sea, &amp; to thwart the Biſhop of Rome, giving him the Biſhop of Con<g ref="char:EOLhyphen"/>ſtantinople for a Se<g ref="char:EOLhyphen"/>cond.</note> At the firſt Coun<g ref="char:EOLhyphen"/>cell
+of Conſtantinople, in the yeare
+381. there were a hundred and fiftie
+Orthodox Biſhops, and 630. in the
+Councell of Chalcedon, the yeare
+450. Neither this great number, nor
+their great Antiquity, hindreth our
+adverſaries from condemning all
+thoſe Fathers, for equalling the Bi<g ref="char:EOLhyphen"/>ſhoppe
+of Conſtantinople to him of
+Rome in eccleſiaſticall matters.</p>
+            <p>And it is marvelous how theſe men
+dare ſpeak of Councels,<note place="margin">Afterwards in the year 450. they ſaid they had the ſame privi<g ref="char:EOLhyphen"/>ledges.</note> ſeeing they
+knowe, the day &amp; night are not more
+contrary than the ancient Councels
+and the new, in which the Pope ru<g ref="char:EOLhyphen"/>leth
+and ordaineth all: but the other
+biſhops give their opinion only, with
+<pb n="36" facs="tcp:19325:24"/>
+bowing of the head in ſigne of appro<g ref="char:EOLunhyphen"/>bation.
+At the beginning of which,
+they lay down the holy Scripture at
+the Popes feet; in witnes, that the
+Word of God is ſubject unto him:
+where the Pope is ſeated on a high
+Throne, having the Emperor ſitting
+at his feet. In brief, wee may ſee by
+the practice of theſe later Councels,
+and above all by the Councel of Flo<g ref="char:EOLhyphen"/>rence,
+and the laſt of Lateran, and by
+the book of ſacred ceremonies, that
+a Councell now within theſe few A<g ref="char:EOLhyphen"/>ges
+is no other than a papal conſiſto<g ref="char:EOLhyphen"/>ry,
+though with more ſoleminity:
+whereas in the antient Councels, the
+biſhop of Rome durſt not be preſent,
+and his deputies ordinarily had no
+precedencie there nor authority; far
+from ordaining, that no book ſhall be
+canonicall without the Popes autho<g ref="char:EOLhyphen"/>rity,
+and that all Kings ſhould kiſs his
+feet; and to declare, that there is no
+other name under Heaven but that of
+the great Biſhop:<note place="margin">Annal. Baron.</note> which are the de<g ref="char:EOLhyphen"/>crees
+of the Roman Councell under
+<pb n="37" facs="tcp:19325:24"/>
+               <hi>Gregory</hi> the ſeventh,<note place="margin">Anno. 1078</note> the yeare 1076.
+Briefly, it is certain, that they which
+buzze in your eares the Fathers and
+Councels, do it not becauſe the An<g ref="char:EOLhyphen"/>tients
+are favourable unto them; but
+becauſe they knowe that the people
+can knowe nothing of them, and that
+they muſt needs in thoſe things re<g ref="char:EOLhyphen"/>ferre
+themſelves unto them. But, as
+for the Scripture, which you ought
+to knowe, and which ruleth all the
+Fathers, it is that which is forbidden
+you. In ſumme, yeares are no rules,
+and lying is ever ſince the beginning
+of the world. The Church is not in
+a Countrey, of cuſtome; but, where
+the written truth is. There is no pre<g ref="char:EOLhyphen"/>ſcription
+againſt divine truth: yea, e<g ref="char:EOLhyphen"/>ven
+in the time of the Apoſtles the
+myſtery of iniquity was a-brewing;
+how far ought it now then to bee ad<g ref="char:EOLhyphen"/>vanced?
+And indeed as wel the peo<g ref="char:EOLhyphen"/>ple
+as the paſtors of the Ro. Church
+have theſe many Ages cried out, that
+their Church had need of reformati<g ref="char:EOLhyphen"/>on.
+In the Councell of Pyſa, held in
+<pb n="38" facs="tcp:19325:25"/>
+the yeare 1411, Pope <hi>Alexnder</hi> the
+fift, in the twentieth Seſſion, promi<g ref="char:EOLhyphen"/>ſed
+ſolemnly to intend the reforma<g ref="char:EOLhyphen"/>tion
+of the Church, and to aſſemble
+for that purpoſe the moſt learned of
+all Nations. A while after, was held
+a Councell at Senes, the yeare 1423.
+where the propoſition of the refor<g ref="char:EOLhyphen"/>mation
+of the Church was revived,
+and then put off to another time: for,
+they ſaw they could not ſtir this ſtone
+without ſhaking the papall ſeat.</p>
+            <p>That which the great ones would
+not doo, God hath performed by the
+hands of little ones; uſing unhoped
+for means to expoſe unto the view of
+the world the doctrine of ſalvation
+maugre al the machinations of Satan.</p>
+            <p>Vnto thoſe that have endeavored,
+and do yet endeavour to perfect this
+work, you are thus much beholding,
+as that the holy Scripture, which
+the people ſaw not heertofore, is now
+tranſlated into the vulgar tongue, and
+that the Spirit of God ſpeakes it; ſo,
+as none can be ignorant of the Word
+<pb n="39" facs="tcp:19325:25"/>
+of God, but he that hood-winks him<g ref="char:EOLhyphen"/>ſelf
+leſt hee ſhould ſee the light. You
+are alſo thus much more beholding
+unto them, that the Pope doth leſſe
+tyrannize over you than he did ſome
+foure or five hundreth yeares ſince,
+and that your ſervitude is by a quar<g ref="char:EOLhyphen"/>ter
+leſſe burdenſome.<note place="margin">Such Buls are found in Math. Pa<g ref="char:EOLhyphen"/>ris, and in the 3. Tome of Coun<g ref="char:EOLhyphen"/>cels, at the end of the Councell of Lateran vnder In<g ref="char:EOLhyphen"/>nocent the third.</note> For, in thoſe
+daies the Pope gave to the French,
+which armed themſelves for him and
+at his commandement, beſides the
+remiſſion of all their ſins, a degree of
+glory in Paradiſe above others:
+whereas now if he ſhould ſend them
+to goe into a farre Countrey upon a
+Croyſada, to fight againſt Hereticks,
+or to take-in ſome Townes of their
+neighbours to the Popes uſe, as was
+done not very long ſince, you your
+ſelves would mock at his comman<g ref="char:EOLhyphen"/>dement.
+In former times, when any
+King angred him, his cuſtome was to
+interdite his Kingdome; and ſo put
+(as far as in him lay) many millions
+of perſons out of the communion of
+the Church, cauſe all divine ſervice
+<pb n="40" facs="tcp:19325:26"/>
+to ceaſe in a large Countrey, cauſe
+the Bels to bee ſtill, hinder Burialls,
+and to expoſe the Countrey in preie
+to him could firſt conquer it. Eng<g ref="char:EOLhyphen"/>land
+was ſix years and a half in this e<g ref="char:EOLhyphen"/>ſtate,
+in the time of King <hi>Iohn:</hi> but,
+now-a-daies he drawes no more that
+weapon; leſt, beſtirring himſelfe too
+hard, hee overturne his owne chair,
+which the doctrine of the goſpell
+hath already much ſhaken.</p>
+            <p>You owe them moreover this ob<g ref="char:EOLhyphen"/>ligation,
+that you ſee not (as in the
+time of <hi>Boniface</hi> the ninth, and <hi>Leo</hi> the
+tenth) Pardoners to run from houſe
+to houſe through France, who for
+half a crown ſould every one remiſſi<g ref="char:EOLhyphen"/>on
+of all their ſins, and deliverance of
+a ſoule out of Purgatory.</p>
+            <p>The time hath bin, that in France
+there was no ſpeech but of miracles,
+and of Saint <hi>Anthonies</hi> fire, and of the
+apparition of damned ſoules, or o<g ref="char:EOLhyphen"/>thers
+returning from Purgatory: of
+which illuſions the greater part is va<g ref="char:EOLhyphen"/>niſhed
+at the Sunne-riſe of the holy
+<pb n="41" facs="tcp:19325:26"/>
+Scriptures, which the night of igno<g ref="char:EOLhyphen"/>rance
+had hidden. And if now they
+doo any petty miracles, it is in ſecret,
+and never in our ſight: for, before a
+man that feareth God, and knoweth
+him, Satan is as it were afflicted, and
+loſeth his fenſe-play; yea, even your
+owne Magiſtrates have puniſht theſe
+deceivers.</p>
+            <p>There bee but a few amongſt you
+that doo wholly beleeve your owne
+religion, but doo finde ſome fault in
+the Romiſh Church: for indeed, it
+would be a hard matter to endure the
+decrees and gloſſes which ſay, that
+<note n="a" place="margin">Tit. 8 de Praebend. cap. Propo<g ref="char:EOLhyphen"/>ſuit. According to the ful<g ref="char:EOLhyphen"/>neſs of our power we may lawful<g ref="char:EOLhyphen"/>ly diſpenſe above law. Where the Gloſſe alſo; The Pope doth diſ<g ref="char:EOLhyphen"/>penſe a<g ref="char:EOLhyphen"/>gainſt the Apoſtle; as alſo againſt the old Te<g ref="char:EOLhyphen"/>ſtament, as alſo in ano<g ref="char:EOLhyphen"/>ther. Gloſſa. diſt. 34. can. lector. The Pope can diſpenſe againſt the Apoſtle. Et cauſa 23. qu. 1. can. Sunt quidam, The Gloſſe hath it thus: Hee (the Pope) diſpenſeth in the Goſ<g ref="char:EOLhyphen"/>pell, by interpreting it.</note> the pope is above law and right, and
+that <hi>he can diſpenſe againſt the Apoſtle,
+and against the goſpell;</hi> and which cals
+<note n="b" place="margin">Gloſſa extrav. Cu<g ref="char:cmbAbbrStroke">̄</g> inter. Our Lord god the Pope.</note> the Pope, god; and<note n="c" place="margin">Concil. Lat. ultimum ſeſſ. 9. The countenance of thy divine Majeſty. Bellarm. in Barkl. c. 31. Chriſt gaue to Pe<g ref="char:EOLhyphen"/>ter, in a good ſenſe, power to make of ſinne no ſinne; and of no ſinne, ſinne.</note> the divine ma<g ref="char:EOLhyphen"/>jeſty:
+<pb n="42" facs="tcp:19325:27"/>
+or thoſe fabulous Legends,
+which compare and equall in many
+things, S. <hi>Dominick</hi> and S. <hi>Francis</hi> with
+Ieſus Chriſt; or the opinion of thoſe
+which muffle themſelves with the
+habit of S. <hi>Francis</hi> when they are on
+their death-beddes, ready to give up
+the ghoſt, becauſe (ſay their Doc<g ref="char:EOLhyphen"/>tors)
+that this garment is as good as
+aſecond baptiſme: nor the gadding
+of poor people 200. leagues off, after
+pardons, ſeeing the remiſſion of ſins
+is offered to us at home by the prea<g ref="char:EOLhyphen"/>ching
+of the goſpell: nor thoſe that
+teach, that the Pope can make that
+which is ſin to bee no ſinne, and that
+which is no ſin to be ſin. And certain
+it is, that though wee ſhould hould
+our peace, yet the truth doth ſpeake
+in the conſciences of many which
+are held in this captivity for feare of
+men, and for their domeſtick affairs:
+for, the divell tickles men by the
+panch, and rockes them a ſleep with
+pleaſures and honours; from whence
+it coms to paſſe, that the ſparks of the
+<pb n="43" facs="tcp:19325:27"/>
+knowne truth are ſmother'd in them;
+or, if they be not quenched in them,
+they burn &amp; torture the conſcience,
+and make them more culpable, not
+onely for having buried their talent
+of the knowledge of God, but even
+for having diſſipated it; for having
+bin aſhamed to confeſs the Sonne of
+God before men, and not defending
+his cauſe in time of need; for beeing
+more afraid of mens diſpleaſure, than
+to offend God, whoſe promiſes are
+certain, his threatnings horrible, and
+judgements eternall and inevitable:
+who having now in our daies done ſo
+many marvellous things, to build up
+again the ruines of his Church, will
+not ſurely leave unpuniſhed thoſe
+which endeavour to trouble his work,
+and who go purpoſely aſtray at high<g ref="char:EOLhyphen"/>noon.</p>
+            <p>All this diſcourſe (my Maiſters)
+proceedeth from nought elſe but a
+ſervent deſire that wee have of your
+ſalvation, and that God might be ſer<g ref="char:EOLhyphen"/>ved:
+for, wee have heerein no other
+<pb n="44" facs="tcp:19325:28"/>
+intereſt but your happineſſe; ſeeing
+that for defending this cauſe we are
+like to purchaſe nothing but trouble,
+hatred and diſcommodity. Wee ra<g ref="char:EOLhyphen"/>ther
+deſire a great deale more to live
+in peace and amity with our fellow-citizens
+under one ſelf-ſame religi<g ref="char:EOLhyphen"/>on,
+if wee might doo it without of<g ref="char:EOLhyphen"/>fenſe
+to God. Nor ceaſe wee to be<g ref="char:EOLhyphen"/>ſeech
+the Father of mercy, whoſe
+compaſſions ſurmount our iniquties,
+that hee would pardon thoſe which
+hate us, that hee would touch their
+hearts with repentance, and inligh<g ref="char:EOLhyphen"/>ten
+their underſtandings with his
+light, to knowe the day of their viſi<g ref="char:EOLhyphen"/>tation,
+and the way of eternall ſalva<g ref="char:EOLhyphen"/>tion;
+leſt in the end he turn away his
+favour fro<g ref="char:cmbAbbrStroke">̄</g> a people which turn their
+backs upon him; and pour out a dark<g ref="char:EOLhyphen"/>nes
+more thick than the former upon
+a nation enraged againſt the light of
+the goſpell.</p>
+            <p>If theſe conſiderations ſhall move
+any one, it will bee a great joy unto
+mee, and an ample reward for my la<g ref="char:EOLhyphen"/>bour:
+<pb n="45" facs="tcp:19325:28"/>
+if it ſhall happen otherwiſe,
+wee ſhall have at leaſt delivered our
+owne ſoules, freed our conſciences,
+and born witnes in this hart-harned
+Age, until the Son of God com from
+Heaven to heare our griefs, and
+deliver his children, and re<g ref="char:EOLhyphen"/>ward
+every one accor<g ref="char:EOLhyphen"/>ding
+to his worke.
+To him be glo<g ref="char:EOLhyphen"/>ry
+world with<g ref="char:EOLhyphen"/>out
+end.
+Amen.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+         <div type="treatise">
+            <pb n="46" facs="tcp:19325:29"/>
+            <head>THE
+Great Iubile and Pardon
+of full remiſsion for all
+true Chriſtians.</head>
+            <p>
+               <seg rend="decorInit">T</seg>He true pardon and re<g ref="char:EOLhyphen"/>miſſion
+of all ſinnes is
+made <gap reason="illegible: faint" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the aboundant
+mercy of God, who par<g ref="char:EOLhyphen"/>doneth
+vs all our ſinnes by one alone
+Ieſus Chriſt in the ſhedding of his
+bloud.<note place="margin">Luk. 1</note>
+               <note place="margin">Mar. 14</note>
+               <note place="margin">Ma. 1. 2. 6</note>
+            </p>
+            <p>For hee is the propitiation of all
+the ſinnes of the world, and hath
+manifeſted himſelfe by taking our
+fleſh vpon him, alſo dying and bea<g ref="char:EOLhyphen"/>ring
+our ſinnes in his bodie to abo<g ref="char:EOLhyphen"/>liſh
+<pb n="47" facs="tcp:19325:29"/>
+them,<note place="margin">Ephe. 1</note> (to the end hee might
+purge vs from the ſinnes vnto the
+which wee were bound) beleeuing
+in him who is the Lamb without
+ſpot once offered for all. In ſuch
+ſort as no oblation of ſacrifice is
+now anie more needfull heereafter
+to abſolue vs from our ſinnes.<note place="margin">Parali. 3</note> The
+which Lamb hath been made to vs
+of God,<note place="margin">Iohn 1</note> wiſedom, Iuſtice, ſanctifi<g ref="char:EOLhyphen"/>cation
+and redemption, by which he
+hath aboliſhed and whollie brought
+to nought our folly,<note place="margin">Apoca. 1. 4</note> iniuſtice,<note place="margin">Ro. 4. 1.</note> abomi<g ref="char:EOLhyphen"/>nation
+and obligation with w<hi rend="sup">ch</hi> God
+the father hath giuen vs all things.
+Vnto which pardon he himſelf doth
+inuite vs aſwel by his Prophets as by
+his Euangeliſts, ſaying; All yee that
+be athirſt com vnto the great ſpring,<note place="margin">Tim. 1</note>
+and who haue no monie make haſte
+to com,<note place="margin">Iohn. 18 <gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </note> buy yee, drin yee, and eate
+yee.</p>
+            <p>Item, If anie bee adrie, Let him
+come to mee and drink.</p>
+            <p>Item,<note place="margin">Mat. 11. 28</note> Com vnto me all ye that are
+wearie and heauis loden, and I will
+<pb n="48" facs="tcp:19325:30"/>
+refreſh you.<note place="margin">Iohn 16. 23</note> And for our aſſurance
+ſaith thus vnto vs: If your demande
+anie thing of my father in my name
+he will giue it you. And of whome
+the Apoſtle ſaith,<note place="margin">Heb. 7</note> Wherefore alſo he
+can fully ſaue them which come
+neere vnto him, alwayes lyuing to
+make interceſſion for them.<note place="margin">Acts 4.</note> Saint
+Peter ſaith there is no other name
+giuen vnder heauen vnto men, by
+which wee muſt bee ſaued,<note place="margin">Gala. 1</note> nor is
+there ſaluation in any other:<note place="margin">2 Cor. 8</note> where<g ref="char:EOLhyphen"/>of
+the Bull followeth.</p>
+            <div type="part">
+               <head>Theſe are the great Pardons and indul<g ref="char:EOLhyphen"/>gences
+of full remiſsion of ſinne and
+puniſhment, giuen vnto all the Church
+and Houſe of God, that is, to all faithfull
+Chriſtians, vnder heauen.</head>
+               <p>BY the authoritie and vertue of
+the Commaundements of our
+holie Father God the Creator our
+ſoveraigne Lord,<note place="margin">Pſa. 109</note> &amp; by Ieſus Chriſt
+our ſoueragine Paſtor &amp; euerlaſting
+Biſhop,<note place="margin">Mar. 16</note> you are commaunded and
+<pb n="49" facs="tcp:19325:30"/>
+expreſly enionin'd by your holy obe<g ref="char:EOLhyphen"/>dience,
+that you reade,<note place="margin">Luc. 9. 10</note> vnderſtand, &amp;
+giue notice vnto euerie one, of the
+great priuiledges, remiſſions, &amp; par<g ref="char:EOLhyphen"/>dons
+of ſin &amp; puniſhment giune for
+euer by God the father,<note place="margin">Pſal. 18</note> to al faithful
+&amp; true ſeruants of Ieſus Chriſt who
+with al their hartes will render them
+ſelues vnto him,<note place="margin">Act. 3. 4. 5. 6</note> faithfullie belee<g ref="char:EOLhyphen"/>uing
+and hoping for euerlaſting life
+by his moſt precious bloud:<note place="margin">Luc. 11. &amp; 28</note> who
+hath ſent his Apoſtles through all
+the world to preach and declare his
+holie goſpell and good tidings con<g ref="char:EOLhyphen"/>teyning
+the remiſſion of our ſinnes,
+confirming their wordes by mira<g ref="char:EOLhyphen"/>cles
+which the Lord wrought by
+them,<note place="margin">Pſal. 37</note> by the which wee haue full
+Iubile &amp; generall pardon of puniſh<g ref="char:EOLhyphen"/>ment
+and ſinne;<note place="margin">Ier. 23</note> as his moſt holie Fa<g ref="char:EOLhyphen"/>ther
+had ordained euen before the
+creation of the world and promiſed
+by his Prophets;<note place="margin">Gal. 3</note> That at all and e<g ref="char:EOLhyphen"/>uerie
+time and tymes, in all places &amp;
+as often as we miſerable ſinners ſhall
+acknowledge our pouertie and ſin<g ref="char:EOLhyphen"/>fulnes,
+<pb n="50" facs="tcp:19325:31"/>
+beleeuing in him without
+doubting,<note place="margin">Ioh. 5. 8</note> &amp; crauing pardon of him,
+wee ſhall haue what wee deſire: and
+all to ſhew his maruelous bountie
+and mercie which hee intendeth to<g ref="char:EOLhyphen"/>wards
+vs for his ſonne Ieſus Chriſt
+his ſake,<note place="margin">Rom. 5. 9. 7. 8 &amp; 12</note> how great ſinners ſoeuer we
+bee; who beeing mooued with pit<g ref="char:EOLhyphen"/>ty
+conſidering the bottomleſs gulfe
+of all euill in the which wee were
+held by the diuell,<note place="margin">Pet. <gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </note> and ſubjects and
+ſlaues vnto him by our owne wills,
+did ſend his ſonne Ieſus Chriſt at
+that tyme which hee had appointed
+when all wickedneſſe raigned,<note place="margin">Rom. 6</note> and
+that all the world through ſin were
+his mortall enimies;<note place="margin">Epheſ. 3</note> and that to make
+vs knowe what great charitie hee
+bore to vs his enemies that we might
+bee iuſtified and made cleane by his
+bloud,<note place="margin">Colloſ. 1</note> and to preſerue vs from his
+great furie.<note place="margin">Acts. 2.</note> By the which Ieſus
+Chriſt our true Paſtor and Biſhop,
+the father of mercy hath opened the
+ineſtimable Treaſure of grace <note place="margin">1 Cor. 5</note> and
+mercie <note place="margin">1 Pet. 1</note> which is the Treaſure of all
+<pb n="51" facs="tcp:19325:31"/>
+faithfull Chriſtians vnder Heauen,
+to the end that all thoſe which truſt
+and firmely beleeue that this bloud
+was ſpilt for the remiſſion of their
+ſinnes, might be ſaued and deliuered
+from the ſnares of the diuell.<note place="margin">Gal. 1</note> And ſo
+hereafter in ſteed of ſinning wee
+might doe good works like vnto our
+Redemers, in louing our neighbours
+yea euen our enemies, euen as Ieſus
+Chriſt hath loued vs,<note place="margin">Iam. 2</note> which were
+his enemies,<note place="margin">Deut. 1</note> &amp; therefore gaue him<g ref="char:EOLhyphen"/>ſelfe
+vnto death for vs;<note place="margin">Leuit. 9</note> and that we
+ſhould bee helpfull vnto all in all we
+can,<note place="margin">Mat. 22</note> with as free and good a will as
+hee hath done good vnto vs, not ha<g ref="char:EOLhyphen"/>uing
+reſpect vnto the rewarde, but
+onelie vnto Ieſus Chriſt. And to the
+end ye ſhould not thinke that theſe
+Pardons and Indulgences bee falſe
+&amp; counterfeit, we will hereafter fol<g ref="char:EOLhyphen"/>lowing
+recite the witneſſes which
+were preſent when they were gran<g ref="char:EOLhyphen"/>ted,
+beeing all credible perſons, and
+who were all expreſſly comman<g ref="char:EOLhyphen"/>ded
+to beare witneſſe therof vnto all
+in generall.</p>
+            </div>
+            <div type="part">
+               <pb n="52" facs="tcp:19325:32"/>
+               <head>The Witneſſes of the Premiſſes.</head>
+               <p>FIrſt, as concerning the ould Teſ<g ref="char:EOLhyphen"/>tament:
+Moyſes witneſſeth in
+his booke of Geneſis, and other
+following, in divers places, That by
+Ieſus Chriſt (of the ſeed of <hi>Abraham,
+Iſack, Iacob, Iuda,</hi> and <hi>Dauid)</hi> all people
+ſhall receiue bleſſing and ſaluation.</p>
+               <p>Item,<note place="margin">Eſay. 19. 2 33. 35. 43. 18. &amp; 53</note> 
+                  <hi>Eſaie, Ieremie, Ioel, Mi<g ref="char:EOLhyphen"/>chay,
+Malacky,</hi> doe witneſſe, That
+the ſaluation of Iſraell and of the
+elect people of God is in Ieſus
+Chriſt.<note place="margin">Ioel. 2</note> Secondly,<note place="margin">Mich. <gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </note> that in the new
+Teſtament,<note place="margin">Mala. 2</note> Saint Mathew witneſ<g ref="char:EOLhyphen"/>ſeth
+that our great Biſhop Ieſus
+Chriſt ſaith, I am not come to bee
+ſerued, but to ſerue, and to giue my
+life for the redemption of manie.
+Item,<note place="margin">Mat. 9. 20. &amp; 26</note> Behould my bloud which
+ſhall bee for the remiſſion of ſinnes.
+Item, hee ſaid vnto one ſicke of the
+Palſey that he ſhould beleeue in him,<note place="margin">Mar. 9. &amp; 16</note>
+and his ſinnes were forgiuen him.
+The like vnto the ſick woman, vnto
+<pb n="53" facs="tcp:19325:32"/>
+the Leper, vnto the Blind and o<g ref="char:EOLhyphen"/>thers.
+Saint Marke witneſſeth alſo,
+that Ieſus ſaid vnto the father of the
+Poſſeſſed, If thou canſt beleeue, all
+things are poſſible vnto him that be<g ref="char:EOLhyphen"/>leeueth.
+Item, in another place,
+Whoſoeuer will beleeue and bee
+baptiſed ſhall bee ſaued. And
+in manie other places, Saint Luke
+witneſſeth, ſaying: Bleſſed bee the
+Lord God of Iſraell: for hee hath
+viſited &amp; redeemed his people.<note place="margin">Luc. 12. 24</note> Item
+Behold I bring you tidings of great
+ioy vnto all people, to wit, that this
+daie is borne the Sauiour which is
+Chriſt.<note place="margin">Ioh. 13. 5</note> Item, it is written, So it be<g ref="char:EOLhyphen"/>houed
+that Chriſt ſhould ſuffer
+death and riſe againe, and ſo enter in<g ref="char:EOLhyphen"/>to
+his glorie, and that men ſhould
+preach euerie where in his name re<g ref="char:EOLhyphen"/>pentance
+and forgiuneſs of ſinnes.
+Saint Iohn witneſſeth that Saint
+Iohn Baptiſt did publicklie approue
+Ieſus Chriſt, ſaying: Behould the
+Lamb of God which taketh awaie
+the finnes of the world. Item who<g ref="char:EOLhyphen"/>ſoeuer
+<pb n="54" facs="tcp:19325:33"/>
+belueeth in Ieſus Chriſt the
+ſon of God, he hath euerlaſting life.
+Item, Verclie I ſaie vnto you, who<g ref="char:EOLhyphen"/>ſoeuer
+heareth my word and belee<g ref="char:EOLhyphen"/>ueth
+in him that ſent mee, hee hath
+euerlaſting life, and commeth not in
+to iudgment,<note place="margin">1. Ioh. 2</note> but paſſeth for<g ref="char:cmbAbbrStroke">̄</g> death
+vnto life.<note place="margin">Apoc. 1</note> Item, Wee haue an aduo<g ref="char:EOLhyphen"/>cate
+vnto God the father euen Ieſus
+Chriſt: and he is the propitation for
+our ſinnes, who hath loued and
+waſhed vs from our ſins in his bloud.
+And in manie places of the goſpel, &amp;
+in the Epiſtles of Saint Paul he wit<g ref="char:EOLhyphen"/>neſſeth
+in manie texts: &amp; namely to
+the Hebrewes,<note place="margin">Heb. 1.</note> where hee ſaith, Ieſus
+purgeth awaie ſinne;<note place="margin">Actas <gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</note> Saint Peter alſo
+ſaying: It is Ieſus Chriſt by whome
+wee haue remiſſion of our ſinnes.</p>
+            </div>
+            <div type="part">
+               <head>Concluſion of theſe Pardons.</head>
+               <p>OVr holie father God the crea<g ref="char:EOLhyphen"/>tour,
+who euer hath been and
+ſhall bee: hath confirmed all the
+graces,<note place="margin">Iudith 1</note> pardons and priuiledges of
+<pb n="55" facs="tcp:19325:33"/>
+thoſe reuerend Legats aboue menti<g ref="char:EOLhyphen"/>oned:
+and excommunicateth all hin<g ref="char:EOLhyphen"/>derers,
+murmurers and gainſayers of
+thoſe ſaid pardons and indulgences.<note place="margin">Deut. 18.</note>
+Hee which ſhall not heare my great
+Prophet,<note place="margin">Gal. 1</note> ſhall bee raced out of the
+booke of life. And Saint Paul: If we
+or an Angell from Heauen preach a<g ref="char:EOLhyphen"/>nie
+other thing then that which wee
+haue declared and preached, let him
+be accurſed. And therfore we reco<g ref="char:cmbAbbrStroke">̄</g>
+                  <g ref="char:EOLhyphen"/>mend
+vnto you this noble and moſt
+certaine pardon:<note place="margin">Iam. 2.</note> for it is that true
+pardon which maie be got without
+gold or ſiluer by a liuelie faith which
+kindleth a charitie in all thoſe which
+attaine vnto it, and ſtirreth them vp
+to giue almes vnto all in want, and
+render to each one that which ap<g ref="char:EOLhyphen"/>pertaineth
+vnto them:<note place="margin">Phil. 4</note> vnto this alſo
+tendeth the lawe and the Prophets.</p>
+               <p>
+                  <hi>Giuen</hi> in the ſupreame &amp; ſoueraine
+Court of Paradiſe, euer ſince the
+firſt beginning of the world.</p>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="54" facs="tcp:19325:34"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="55" facs="tcp:19325:34"/>
+               <trailer>FINIS.</trailer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
